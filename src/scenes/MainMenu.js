@@ -6,7 +6,7 @@
 // place inside MainMenu.js
 
 // reducer
-function reducer(state = initState, action) {
+/* function reducer(state = initState, action) {
     switch (action.type) {
       case LOAD_NFT:
         emitter.emit("LOAD_NFT", action);
@@ -23,4 +23,4 @@ function reducer(state = initState, action) {
   export const LOAD_NFT = "LOAD_NFT";
   let valid_nft_image = "";
   
-  // place inside MainMenu.js constructor()
+  // place inside MainMenu.js constructor() */
